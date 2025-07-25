@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed junaid aamir faruky</h1>
-<h3 align="center">A passionate Electrical & electronic engineer and</h3>
+<h3 align="center">A passionate Electrical & electronic engineer and Python programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid-faruky&label=Profile%20views&color=0e75b6&style=flat" alt="junaid-faruky" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Junaid-faruky](https://github.com/Junaid-faruky)
 
-- 💬 Ask me about **MySQL, Python**
+- 💬 Ask me about **MySQL, Python ,**
 
 - 📫 How to reach me **junaidfaruky240@gmail.com**
 
