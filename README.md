@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed junaid aamir faruky</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Junaid Aamir Faruky</h1>
 <h3 align="center">A passionate Electrical & electronic engineer and Python programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid-faruky&label=Profile%20views&color=0e75b6&style=flat" alt="junaid-faruky" /> </p>
